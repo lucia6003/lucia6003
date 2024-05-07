@@ -36,7 +36,7 @@ h1 {letter-spacing: 6px}
 <!-- Photo Grid -->
 <div class="w3-row-padding w3-grayscale" style="margin-bottom:128px">
   <div class="w3-half">
-    <img src="/imagenes/e024b507727652a977a682dd5e58d460.jpg" style="width:100%">
+    <img src="/imagenes/wedding.jpg" style="width:100%">
     <img src="/imagenes/rocks.jpg" style="width:100%">
     <img src="/imagenes/falls2.jpg" style="width:100%">
     <img src="/imagenes/paris.jpg" style="width:100%">
@@ -48,7 +48,7 @@ h1 {letter-spacing: 6px}
   <div class="w3-half">
     <img src="/imagenes/underwater.jpg" style="width:100%">
     <img src="/imagenes/ocean.jpg" style="width:100%">
-    <img src="/imagenes/e024b507727652a977a682dd5e58d460.jpg" style="width:100%">
+    <img src="/imagenes/wedding.jpg" style="width:100%">
     <img src="/imagenes/mountainskies.jpg" style="width:100%">
     <img src="/imagenes/rocks.jpg" style="width:100%">
     <img src="/imagenes/underwater.jpg" style="width:100%">
